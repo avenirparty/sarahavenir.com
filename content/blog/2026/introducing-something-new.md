@@ -36,3 +36,9 @@ So now, without further ado, welcome to [The Self-Taught Life](https://publish.o
 With gratitude,
 
 [Sarah Avenir](https://sarahavenir.com)
+
+---
+
+*In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
+
+* [This Newsletter is for Friends](https://buttondown.com/sarahavenir/archive/introducing-something-new/)

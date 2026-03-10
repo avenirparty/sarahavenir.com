@@ -61,3 +61,9 @@ It's time to remove the invisible cloche. It's time to let the sapling grow full
 Here's to leaping tall cedars together,
 
 [Sarah Avenir](https://sarahavenir.com)
+
+---
+
+*In the spirit of [POSSE](https://indieweb.org/POSSE), this was also published at:*
+
+* [This Newsletter is for Friends](https://buttondown.com/sarahavenir/archive/what-i-cant-get-used-to-here/)
